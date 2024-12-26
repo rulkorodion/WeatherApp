@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">Погода</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="toKnowButton">Узнать погоду</string>
+    <string name="toKnowWeather">Погода в вашем городе</string>
+    <string name="if_no_input">Введите название города</string>
+</resources>
